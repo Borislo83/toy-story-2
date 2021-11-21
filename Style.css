@@ -1,0 +1,41 @@
+body{
+	background: mediumaquamarine;
+	color: white;
+}
+h3{
+	color: blueviolet;
+	font-family: Arial,Helevtica,sans-serif;
+}
+h1{
+	font-family: Arial,Helevtica,sans-serif;
+}
+
+.bigImage{
+	 background: black;
+	padding: 20px;
+	width: 700px ;
+	 height: 500px;
+
+}
+.smallImage{
+	border: 30px blueviolet;
+	background: black;
+	padding:  30px;
+	width: 500px ;
+	 height: 250px;
+}
+p{
+	font-family: Arial,Helevtica,sans-serif;
+	letter-spacing: 3px;
+	text-align: justify;
+}
+
+.bld{
+	font-weight: bold;
+}
+ol{
+	list-style-type: lower-alpha;
+}
+ul{
+	list-style-type: square;
+}
